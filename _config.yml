@@ -12,7 +12,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   We're a team of scientists, researching and studying collaboratively.
 baseurl: ""
-url: "http://moneuronlab.github.io"
+url: "https://moneuronlab.github.io"
 
 include:
   - _pages
