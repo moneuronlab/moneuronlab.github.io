@@ -1,6 +1,6 @@
 ---
 layout: member
-category: main
+category: alumni
 title: Mo Shakiba
 image: mo.jpg
 role: B.S. Cell Biology
