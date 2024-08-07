@@ -3,7 +3,7 @@ layout: member
 category: main
 title: Mo
 image: mo.jpeg
-role: PhD Student (in co-supervision with the <a target="blank" href="http://cbio.mines-paristech.fr/">CBIO</a>)
+role: PhD Student
 permalink: 'team/mo-shakiba'
 social:
     twitter: 
@@ -17,4 +17,4 @@ education:
  - FUM (Mashhad) - B.S. in Cell and Molecualr Biology
 ---
 
-komoimo
+A dedicated student immersed in the study of science.
