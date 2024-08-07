@@ -1,6 +1,6 @@
 ---
 layout: member
-category: researcher
+category: main
 title: Mo Shakiba
 image: mo.jpg
 role: B.S. Cell Biology
