@@ -6,7 +6,7 @@ permalink: /team/
 <!-- Researchers -->
 <h2 class="mb-3"><a id="researcher"></a>Researchers</h2>
 
-{% assign members = site.posts | where: 'category', 'researcher' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'main' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
