@@ -1,8 +1,4 @@
 <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
-    {% if member.social.twitter %}
-    <li class="list-inline-item"><a target="blank" href="{{member.social.twitter}}"><i class="fa-brands fa-x-twitter"></i></a></li>
-    {% endif %}
     <!-- Linkedin -->
     {% if member.social.linkedin %}
     <li class="list-inline-item"><a target="blank" href="{{member.social.linkedin}}"><i class="fa-brands fa-linkedin-in"></i></a></li>
@@ -10,17 +6,5 @@
     <!-- Github -->
     {% if member.social.github %}
     <li class="list-inline-item"><a target="blank" href="{{member.social.github}}"><i class="fa-brands fa-github"></i></a></li>
-    {% endif %}
-    <!-- Google Scholar -->
-    {% if member.social.google-scholar %}
-    <li class="list-inline-item"><a target="blank" href="{{member.social.google-scholar}}"><i class="fa-brands fa-google-scholar"></i></a></li>
-    {% endif %}
-    <!-- Orcid -->
-    {% if member.social.orcid %}
-    <li class="list-inline-item"><a target="blank" href="{{member.social.orcid}}"><i class="fa-brands fa-orcid"></i></a></li>
-    {% endif %}
-    <!-- Research Gate -->
-    {% if member.social.research-gate %}
-    <li class="list-inline-item"><a target="blank" href="{{member.social.research-gate}}"><i class="fa-brands fa-researchgate"></i></a></li>
     {% endif %}
 </ul>
