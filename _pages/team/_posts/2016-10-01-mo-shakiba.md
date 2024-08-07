@@ -3,7 +3,7 @@ layout: member
 category: researcher
 title: Mo
 image: mo.jpeg
-role: PhD Student
+role: B.S. Cell Biology
 permalink: 'team/mo-shakiba'
 social:
     twitter: 
