@@ -6,7 +6,7 @@ image: mo.jpg
 role: B.S. Cell Biology
 permalink: 'team/mo'
 social:
-    twitter:
+    twitter: https://twitter.com/judithabk6
     linkedin: https://www.linkedin.com/in/moneuron
     google-scholar: https://scholar.google.com/citations?user=r1sNGGsAAAAJ&hl=en
     github: https://github.com/moneuron
