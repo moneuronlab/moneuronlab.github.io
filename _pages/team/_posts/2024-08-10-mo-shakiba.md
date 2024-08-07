@@ -1,11 +1,12 @@
 ---
 layout: member
-category: alumni
+category: main
 title: Mo Shakiba
 image: mo.jpg
 role: B.S. Cell Biology
 permalink: 'team/mo'
 social:
+    twitter:
     linkedin: https://www.linkedin.com/in/moneuron
     google-scholar: https://scholar.google.com/citations?user=r1sNGGsAAAAJ&hl=en
     github: https://github.com/moneuron
@@ -15,5 +16,6 @@ social:
 education:
  - FUM (Mashhad) - B.S. in Cell and Molecualr Biology
 ---
+
 
 A dedicated student immersed in the study of science.
