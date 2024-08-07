@@ -1,6 +1,6 @@
 ---
 layout: member
-category: main
+category: researcher
 title: Mo
 image: mo.jpeg
 role: PhD Student
