@@ -14,7 +14,7 @@ social:
     orcid: https://orcid.org/0009-0003-4404-7759
     research-gate: https://www.researchgate.net/profile/Mo-Shakiba
 education:
- - ENS (Paris) - Undergraduate in Biology
+ - FUM (Mashhad) - B.S. in Cell and Molecualr Biology
 ---
 
 komoimo
