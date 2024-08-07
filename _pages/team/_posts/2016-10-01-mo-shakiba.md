@@ -3,7 +3,7 @@ layout: member
 category: researcher
 title: Mo
 image: mo.jpeg
-role: B.S. Cell Biology
+role: moneuron / moneuron lab
 permalink: 'team/mo-shakiba'
 education:
  - FUM (Mashhad) - B.S. in Cell and Molecualr Biology
