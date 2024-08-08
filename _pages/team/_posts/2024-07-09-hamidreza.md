@@ -3,7 +3,7 @@ layout: member
 category: researcher
 title: Hamidreza Bezhkool
 image: hamidreza.jpeg
-role: lab member
+role: MS, Cognitive Science
 permalink: 'team/hamidreza'
 education:
 

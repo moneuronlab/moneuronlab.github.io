@@ -3,7 +3,7 @@ layout: member
 category: researcher
 title: Shaghayegh Mahmoudi
 image: shaghayegh.jpeg
-role: lab member
+role: MS, Genetics
 permalink: 'team/shaghayegh'
 education:
 
