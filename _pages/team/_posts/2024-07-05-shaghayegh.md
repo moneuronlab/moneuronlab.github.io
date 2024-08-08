@@ -9,4 +9,4 @@ education:
 
 ---
 
-**[[LINKEDIN]](https://www.linkedin.com/in/Shaghayegh-M/)**
+**[[LINKEDIN]](https://www.linkedin.com/in/Shaghayegh-M)**
