@@ -3,7 +3,7 @@ layout: member
 category: researcher
 title: Amir
 image: amir.jpeg
-role: lab lead
+role: lab member
 permalink: 'team/amir-farnaghizad'
 education:
 
