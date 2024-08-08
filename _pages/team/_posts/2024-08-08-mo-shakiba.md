@@ -4,7 +4,7 @@ category: researcher
 title: Mo
 image: mo.jpeg
 role: lab lead
-permalink: 'team/mo-shakiba'
+permalink: 'team/mo'
 education:
 
 ---
