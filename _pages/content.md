@@ -1,5 +1,5 @@
 ---
-title: moneuron Lab
+title: moneuron lab
 layout: page
 permalink: /content
 ---
