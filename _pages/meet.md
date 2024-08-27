@@ -10,7 +10,7 @@ This is our core session, and everyone is required to attend. Here's how it will
 - **Format**: Everyone will get **5 minutes** to share their thoughts based on what they’ve read, seen, or heard about the topic.
 - **Questions**: Feel free to write your questions in the chat as others present. At the end, we’ll address the questions and dive deeper into the discussion.
   
-### **Session 2: Textbook Study (Optional but Recommended)**
+### **Session 2: Study (Optional but Recommended)**
 This session will be held **1 hour after Session 1** and is designed to help us stay on track with our studies.
 - **Textbook**: We’ll be voting on the textbook soon, but **Kandel's Principles of Neuroscience** has been a popular suggestion so far.
 - **Format**: Each session, one person will lead by sharing their screen and going through the designated chapter. You’ll know in advance which chapter you’re responsible for.
