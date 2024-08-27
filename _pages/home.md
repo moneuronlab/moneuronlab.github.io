@@ -4,10 +4,12 @@ layout: homelay
 permalink: /
 ---
 
-**We're a team of scientists, researching and studying collaboratively.**
+**We’re a team of scientists, researching and studying collaboratively.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our group is dedicated to fostering an environment where scientific inquiry and collaborative learning thrive. Through regular online sessions, we explore a wide range of scientific topics, from in-depth discussions on recent developments to focused study sessions on key neuroscience concepts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our approach combines structured discussions with collaborative learning. We hold themed scientific discussions where members share insights, analyze recent research, and engage in critical dialogue. We also dedicate time to deep study to ensure that everyone stays on track with their learning and understanding of the field.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In addition to our discussions, we are committed to exploring the intersections of neuroscience, coding, and data science. This includes building skills in computational neuroscience, with the aim of applying what we learn to complex research challenges.
+
+By combining collective knowledge and diverse perspectives, we strive to advance our understanding of neuroscience and contribute meaningfully to the scientific community.
