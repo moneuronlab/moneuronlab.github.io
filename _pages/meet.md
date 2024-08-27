@@ -16,7 +16,7 @@ This session will be held **1 hour after Session 1** and is designed to help us 
 - **Format**: Each session, one person will lead by sharing their screen and going through the designated chapter. You’ll know in advance which chapter you’re responsible for.
 - **Preparation**: Everyone should read the assigned material at home during the week, and the session will be a time to clarify concepts, discuss ideas, and ensure we’re all on the same page.
 
-### **Session 3: Computational Neuroscience + Data Science (Optional)**
+### **Session 3: CompNeuro + Data Science (Optional)**
 This will be our **learning-focused session** and is geared towards those who are interested in diving deeper into computational neuroscience, coding, and data science.
 - **Format**: We’ll be learning together and gradually building up to a computational approach in neuroscience.
 - **Commitment**: While this session is optional, if you choose to join, we ask that you commit to attending for the rest of the program. Consistency will be key as we learn these new skills.
