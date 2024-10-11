@@ -21,7 +21,3 @@ This will be our **learning-focused session** and is geared towards those who ar
 - **Format**: We’ll be learning together and gradually building up to a computational approach in neuroscience.
 - **Commitment**: While this session is optional, if you choose to join, we ask that you commit to attending for the rest of the program. Consistency will be key as we learn these new skills.
 
-### **Important Notes:**
-- We’ll be **documenting everything**, so don’t worry if you miss something during the sessions.
-- **Topic Selection**: We will continue to choose topics for each month’s discussions through voting. Keep an eye out for those polls.
-- **Planning**: We’re working on a chart that will outline our monthly plans and specify chapter assignments for each person. This will help us all stay organized.
